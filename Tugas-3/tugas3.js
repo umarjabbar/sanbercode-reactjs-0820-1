@@ -1,4 +1,4 @@
-***** Soal 1
+// ***** Soal 1
 var kataPertama = "saya";
 var kataKedua = "senang";
 var kataKetiga = "belajar";
